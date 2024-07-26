@@ -23,3 +23,8 @@ a:hover {
 a:visited {
     color: Gray;
 }
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
