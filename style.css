@@ -1,0 +1,25 @@
+p {
+    /* margin-bottom: .0002pt; */
+    font-size: 12.0pt;
+    /* margin-left: 0.5in !important;
+    margin-right: 0.5in;
+    margin-top: 0in; */
+}
+
+a {
+    text-decoration: underline;
+}
+
+a:link {
+    color: Navy;
+}
+
+a:hover {
+    background-color: #99CCFF;
+    text-decoration: none;
+    color: Black;
+}
+
+a:visited {
+    color: Gray;
+}
